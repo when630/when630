@@ -6,8 +6,13 @@
    ╚███╔███╔╝██║  ██║███████╗██║ ╚████║╚██████╔╝██████╔╝╚██████╔╝
     ╚══╝╚══╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚═════╝  ╚═════╝
    ────────────────────────────────────────────────────────────
-   > press START to continue_
 ```
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1500&color=39D353&width=620&height=45&lines=%3E+press+START+to+continue_" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1500&color=216E39&width=620&height=45&lines=%3E+press+START+to+continue_" />
+  <img alt="press START to continue" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1500&color=216E39&width=620&height=45&lines=%3E+press+START+to+continue_" />
+</picture>
 
 만들고 싶은 게 생기면 일단 만들어 보는 편입니다.
 
