@@ -9,8 +9,6 @@
    > press START to continue_
 ```
 
-낮에는 **전자문서·전자계약 SaaS**를 만들고, 밤에는 혼자 쓸 작은 걸 만듭니다.
-데스크톱 트레이 앱, 브라우저 속 아이팟, 강화 타이쿤 —
 만들고 싶은 게 생기면 일단 만들어 보는 편입니다.
 
 <br>
@@ -56,9 +54,4 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/58A6FF/when630">
   <img alt="when630's contribution chart" src="https://ghchart.rshah.org/1E6FEB/when630">
 </picture>
-
-```
-   ────────────────────────────────────────────────────────────
-   > _
-```
 
