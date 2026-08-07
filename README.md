@@ -51,7 +51,8 @@
 ## ▚ CONTRIBUTION
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/58A6FF/when630">
-  <img alt="when630's contribution chart" src="https://ghchart.rshah.org/1E6FEB/when630">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/when630/when630/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/when630/when630/output/snake-light.svg" />
+  <img alt="when630's contribution snake" src="https://raw.githubusercontent.com/when630/when630/output/snake-light.svg" />
 </picture>
 
