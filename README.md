@@ -43,14 +43,6 @@
 > iPod Classic 모양 음악 플레이어. 클릭휠 제스처, 계층형 메뉴,
 > Now Playing, Cover Flow까지 그 시절 경험 그대로.
 
-**▸ [tycoon-game](https://github.com/when630/tycoon-game)** &nbsp;`React` `Phaser` `Spring Boot`
-> 「무한의 칼날: 강화 대행사」 — 전설의 대장장이가 되어 용사들의 무기를
-> 강화해주는 경영 타이쿤. 강화의 도박성 + 방치형 성장 + 실시간 랭킹.
-
-**▸ [personal-insight-dashboard](https://github.com/when630/personal-insight-dashboard)** &nbsp;`Next.js` `Supabase`
-> 날씨·일정·뉴스·AI 어시스턴트를 벤토 그리드 한 장에 모은 개인 대시보드.
-> 스크롤 없이 1초 만에 파악하고, 필요할 때만 사이드바로 깊이 들어갑니다.
-
 <br>
 
 ## ▚ CONTRIBUTION
