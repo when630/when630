@@ -15,6 +15,7 @@
 </picture>
 
 만들고 싶은 게 생기면 일단 만들어 보는 편입니다.
+만든 것과 만들면서 적은 글은 [whendev.com](https://whendev.com)에 모아 둡니다.
 
 <br>
 
